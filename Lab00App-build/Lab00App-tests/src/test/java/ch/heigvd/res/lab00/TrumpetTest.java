@@ -50,11 +50,4 @@ public class TrumpetTest {
     String color = trumpet.getColor();
     Assert.assertEquals("golden", color);
   }
-<<<<<<< HEAD
- 
-  
-=======
-  */
- 
->>>>>>> master
 }
